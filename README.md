@@ -1,3 +1,5 @@
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Me%20at%20GitHub&fontAlign=82&fontSize=40)
+
 # Hi there 👋
 
 Nice to meet you. My name is Sebastian.
