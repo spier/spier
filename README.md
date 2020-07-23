@@ -4,7 +4,7 @@ Nice to meet you. My name is Sebastian.
 
 ## Get in touch
 
-- Twitter: [twitter.com/spier](https://twitter.com/spier)
+- Twitter: [twitter.com/sebastianspier](https://twitter.com/sebastianspier)
 - Personal site: [spier.hu](https://spier.hu)
 - LinkedIn: [linkedin.com/in/sebastianspier](https://www.linkedin.com/in/sebastianspier/)
 
