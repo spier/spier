@@ -7,6 +7,7 @@ Nice to meet you. My name is Sebastian.
 ## Get in touch
 
 - Twitter: [twitter.com/sebastianspier](https://twitter.com/sebastianspier)
+- Mastodon: <a rel="me" href="https://hachyderm.io/@spier">hachyderm.io/@spier</a>
 - Personal site: [spier.hu](https://spier.hu)
 - LinkedIn: [linkedin.com/in/sebastianspier](https://www.linkedin.com/in/sebastianspier/)
 
